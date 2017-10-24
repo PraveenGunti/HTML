@@ -1,1 +1,58 @@
 HTML
+HTML Means Hyper Text Markup Language
+The html consists of two parts they are head and body these two are in between the html tags
+Example:
+<html>
+<head>
+----This is head part----
+</head>
+<body>
+----This is body part----
+</body>
+</html>
+There should be a doctype so that to say declaration of the standard compliance.
+Head tag: -
+Syntax:	<head>……</head>
+In the head tag we can
+1.	Write title for the document
+2.	We can provide the links, style etc.,
+3.	Here we can write the scripts
+Body tag: -
+Syntax:	<body>……...</body>
+The visible part of the HTML document is between <body> and </body>.
+In the body we write all the text that the user can see all the data
+There are so many tags that can be written in the body section. Here are some
+?
+1)	Paragraph:
+Here in the paragraph tag 
+<p>This is the paragraph</p>
+<p>this is the another paragraph</p>
+
+2)	Pre
+Pre tag is used to print the data in same order which we keep in the html document. The tag is <pre>
+Syntax:
+<pre>
+Abcd
+1 2 3 4 5
+I II III IV V
+</pre>
+
+3)	Image
+This tag is used to insert the image in the document. The tag is <img>
+Syntax: <img src=”location of the file”>…..</img>
+
+4)	HTML Headings
+HTML headings are defined with the <h1> to <h6> tags.
+<h1> defines the most important heading.
+<h6> defines the least important heading.
+Syntax:
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+5)	Break line:
+This is used to 
+<p>This is<br>a paragraph<br>with line breaks</p>
